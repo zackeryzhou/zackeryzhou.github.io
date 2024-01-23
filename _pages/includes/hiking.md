@@ -22,7 +22,7 @@
 
 <div class='paper-box-text' markdown="1">
 ``Oct 2023`` [MacLehose Trail: Section 2](https://www.alltrails.com/en-gb/trail/hong-kong/sai-kung/maclehose-trail-section-2?sh=qlmoma), Sai Kung, Hong Kong
-- Section 2 is known to be the essence of the famous trail. Along the 13.5 km hike, we were constantly surrounded by some of Hong Kong's most stunning beaches. We did not visit Sharp Peak 「蚺蛇尖」, the sharpest peak in HK, due to time constraints. You can tell that from the photo! We will have the chance someday.
+- Section 2 is known to be the essence of the famous trail. Along the 13.5km hike, we were constantly surrounded by some of Hong Kong's most stunning beaches. We did not visit Sharp Peak 「蚺蛇尖」, the sharpest peak in HK, due to time constraints. You can tell that from the photo! We will have the chance someday.
 </div>
 
 <div class='paper-box-image'>
