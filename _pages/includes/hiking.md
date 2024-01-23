@@ -12,7 +12,7 @@
 
 <div class='paper-box-image1'>
 	<div>
-		<img src='images/hiking/Jan 2024.jpg' alt="Lemosho Traverse - Mt. Kilimanjaro" width="100%">
+		<img src='images/hiking/Jan 2024.JPG' alt="Lemosho Traverse - Mt. Kilimanjaro" width="100%">
 	</div>
 </div>
 
