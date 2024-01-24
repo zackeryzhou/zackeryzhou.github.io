@@ -4,7 +4,7 @@
 <div class='paper-box'>
 
 <div class='paper-box-text' markdown="1">
-``Nov 2022`` [Real-time Rendering of Infinity Mirrors](/projects/InfinityMirror/Zhou_Rui_Infinity_Mirrors.pdf), **Rui Zhou**. [[Demo]](/projects/InfinityMirror/index.html)
+``Nov 2022`` [Real-time Rendering of Infinity Mirrors](/projects/InfinityMirror/Zhou_Rui_Infinity_Mirrors.pdf), **Rui Zhou**. [[Demo]](/projects/InfinityMirror)
 - This project proposes a real-time rendering approach for infinity mirrors from a rasterization perspective. 
 - While ray tracing is the natural choice, its efficiency is largely constrained by computational resources. Instead, to achieve real-time rendering, the work mitigates the artifacts in rasterization by controlling the number of reflections and the degree of light attenuation.
 </div>

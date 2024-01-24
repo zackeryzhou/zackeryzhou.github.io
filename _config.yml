@@ -9,7 +9,7 @@
 title                    : "Zhou Rui, Zack"
 description              : "PhD at HKU IoT Lab. Focusing on federated learning."
 repository               : "zackeryzhou/zackeryzhou.github.io"
-google_scholar_stats_use_cdn : true
+# google_scholar_stats_use_cdn : true             # commented `_includes/fetch_google_scholar_stats.html`, hence stopped google_scholar_crawler
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
