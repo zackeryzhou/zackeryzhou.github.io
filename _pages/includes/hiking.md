@@ -134,4 +134,11 @@
 </div>
 
 </div>
+<!-- Footer-->
+<div style="visibility: hidden; position: absolute;">
+	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tIAsz6n0KrPvLEmp_Hd5sGoHxVt0fxfKOcrc-IzdXIA&cl=ffffff&w=a"></script>
+</div>
+<div class='paper-box' style="border-bottom: 0">
+Last Updated: Jan, 2024
+</div>
 <!-- --- -->
