@@ -123,7 +123,7 @@
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 ``Jan 2019`` [Annapurna Base Camp Trek](https://www.alltrails.com/en-gb/trail/nepal/gandaki-pradesh/annapurna-base-camp-trek--2?sh=qlmoma), Gandaki, Nepal
-- As you venture forth along the valley,the Annapurna massif embraces you, encircling your path with its awe-inspiring presence. The extraordinary range of mountains soars above 7,000 meters, featuring Machapuchare (6,993 m), Gangapurna (7,455 m), and the legendary Annapurna I (8,091 m). 
+- As you venture forth along the valley, the Annapurna massif embraces you, encircling your path with its awe-inspiring presence. The extraordinary range of mountains soars above 7,000 meters, featuring Machapuchare (6,993 m), Gangapurna (7,455 m), and the legendary Annapurna I (8,091 m). 
 - When I awoke to the morning light, the sun gilded the south face of Annapurna I with its golden rays.
 </div>
 

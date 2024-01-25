@@ -45,7 +45,7 @@
 
 <div class='paper-box-image'>
     <div>
-        <img src='images/pub/vis.pdf' alt="A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data" width="100%">
+        <img src='images/pub/vis.png' alt="A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data" width="100%">
     </div>
 </div>
 
