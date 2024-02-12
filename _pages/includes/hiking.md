@@ -6,9 +6,10 @@
 
 <div class='paper-box-text' markdown="1">
 ``Jan 2024`` [Lemosho Traverse](https://www.alltrails.com/en-gb/trail/tanzania/kilimanjaro/mount-kilimanjaro-lemosho-traverse?p=-1&sh=qlmoma), Mt. Kilimanjaro, Tanzania
-- At the start of 2024, I accomplished the Lemosho Traverse at Mt. Kilimanjaro — a memorable 7-day, 6-night expedition. The journey took me through diverse landscapes, from moorland and alpine desert to the snow-capped peak, culminating with tropical rainforests on the final day.
+- At the start of 2024, I accomplished Lemosho Traverse at Mt. Kilimanjaro — a memorable 7-day, 6-night expedition. The journey took me through diverse landscapes, from moorland and alpine desert to the snow-capped peak, culminating with tropical rainforests on the final day.
 - On the night of Jan 5, we embarked on our summit ascent, marched towards Stella point (5,756 m), and eventually at around 7am reached Uhuru peak, Africa's highest point, standing at 5,895 meters.
 - "Hakuna matata," as the local guide assured us, means "There are no troubles".
+- In late January, Elaine and I had a fun morning recalling our journey. [[Podcast](https://www.xiaoyuzhoufm.com/episode/65c8d98adde969cfdc8ba783?s=eyJ1IjogIjYzYjI1MGEwZWRjZTY3MTA0YTQyNzk3MSJ9)]
 </div>
 
 <div class='paper-box-image'>
@@ -139,6 +140,6 @@
 	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tIAsz6n0KrPvLEmp_Hd5sGoHxVt0fxfKOcrc-IzdXIA&cl=ffffff&w=a"></script>
 </div>
 <div class='paper-box' style="border-bottom: 0">
-Last Updated: Jan, 2024
+Last Updated: Feb, 2024
 </div>
 <!-- --- -->
