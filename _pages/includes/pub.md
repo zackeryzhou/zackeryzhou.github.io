@@ -1,7 +1,7 @@
 <span class='anchor' id='publications'></span>
 # Publications 
 
-<!-- Template for text-image pair -->
+<!-- Template for paper-image pair -->
 
 <!-- <div class='paper-box'>
 
@@ -51,8 +51,17 @@
 
 </div>
 
+<!-- Template for paper with no image -->
+
+<!-- <div class='paper-box-no-image'>
+<div class='paper-box-text' markdown="1">
+``VIS 2023`` [A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data](https://ieeexplore.ieee.org/document/10294211), Zhihan Jiang, Handi Chen, **Rui Zhou**, Jing Deng, Xinchen Zhang, Running Zhao, Cong Xie, Yifang Wang, Edith C.H. Ngai.
+</div>
+</div> -->
+
+<div class='paper-box-no-image'>
+<div class='paper-box-text' markdown="1">
 ``ICASSPW 2023`` [Human Activity Recognition From Motion and Acoustic Sensors Using Contrastive Learning](https://ieeexplore.ieee.org/document/10192969), **Rui Zhou**, Running Zhao, Edith C.H. Ngai.
-
-<!-- ``VIS 2023`` [A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data](https://ieeexplore.ieee.org/document/10294211), Zhihan Jiang, Handi Chen, **Rui Zhou**, Jing Deng, Xinchen Zhang, Running Zhao, Cong Xie, Yifang Wang, Edith C.H. Ngai. -->
-
+</div>
+</div>
 

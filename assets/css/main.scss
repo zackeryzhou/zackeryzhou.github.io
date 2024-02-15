@@ -70,9 +70,8 @@ h1:before, .anchor:before {
     flex-direction: row-reverse;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
-
     .paper-box-image{
         justify-content: center;
         display: flex;
@@ -107,5 +106,21 @@ h1:before, .anchor:before {
 
     }
 
+}
+
+// paper-box suitable for no image
+.paper-box-no-image {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 0.5em 0 0 0;
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
 
 }
