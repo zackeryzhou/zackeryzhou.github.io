@@ -17,7 +17,7 @@
 
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
 
 <div class='paper-box-text' markdown="1">
 ``Jun 2021`` [Post-Model-Selection Inference — A Study on a Mixed Residual Bootstrap Procedure](/Capstone/Zhou_Rui_Capstone.pdf), **Rui Zhou**, supervised by Prof. Stephen Lee.
@@ -31,4 +31,11 @@
     </div>
 </div>
 
+</div> -->
+
+<div class='paper-box-no-image'>
+<div class='paper-box-text' markdown="1">
+``Jun 2021`` [Post-Model-Selection Inference — A Study on a Mixed Residual Bootstrap Procedure](/Capstone/Zhou_Rui_Capstone.pdf), **Rui Zhou**, supervised by Prof. Stephen Lee.
+- The project unmasks how omitting the model-selection effect may lead to absurd conclusions on hypothesis tests and misleading confidence intervals.
+</div>
 </div>

@@ -36,7 +36,7 @@
 
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
 
 <div class='paper-box-text' markdown="1">
 ``VIS 2023`` [A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data](https://ieeexplore.ieee.org/document/10294211), Zhihan Jiang, Handi Chen, **Rui Zhou**, Jing Deng, Xinchen Zhang, Running Zhao, Cong Xie, Yifang Wang, Edith C.H. Ngai.
@@ -49,7 +49,7 @@
     </div>
 </div>
 
-</div>
+</div> -->
 
 <!-- Template for paper with no image -->
 
@@ -58,6 +58,12 @@
 ``VIS 2023`` [A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data](https://ieeexplore.ieee.org/document/10294211), Zhihan Jiang, Handi Chen, **Rui Zhou**, Jing Deng, Xinchen Zhang, Running Zhao, Cong Xie, Yifang Wang, Edith C.H. Ngai.
 </div>
 </div> -->
+
+<div class='paper-box-no-image'>
+<div class='paper-box-text' markdown="1">
+``VIS 2023`` [A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data](https://ieeexplore.ieee.org/document/10294211), Zhihan Jiang, Handi Chen, **Rui Zhou**, Jing Deng, Xinchen Zhang, Running Zhao, Cong Xie, Yifang Wang, Edith C.H. Ngai.
+</div>
+</div>
 
 <div class='paper-box-no-image'>
 <div class='paper-box-text' markdown="1">
