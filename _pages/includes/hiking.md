@@ -29,7 +29,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202310.HEIC' alt="MacLehose Trail: Section 2" width="100%">
+		<img src='images/hiking/202310.JPG' alt="MacLehose Trail: Section 2" width="100%">
 	</div>
 </div>
 
@@ -44,7 +44,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202306.HEIC' alt="Monte Smith" width="100%">
+		<img src='images/hiking/202306.JPG' alt="Monte Smith" width="100%">
 	</div>
 </div>
 
@@ -58,7 +58,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202210.HEIC' alt="Ap Lei Pai" width="100%">
+		<img src='images/hiking/202210.JPG' alt="Ap Lei Pai" width="100%">
 	</div>
 </div>
 
@@ -72,7 +72,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202207.HEIC' alt="Kwo Chau Islands" width="100%">
+		<img src='images/hiking/202207.JPG' alt="Kwo Chau Islands" width="100%">
 	</div>
 </div>
 
@@ -86,7 +86,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202201.HEIC' alt="Tai Mo Shan" width="100%">
+		<img src='images/hiking/202201.JPG' alt="Tai Mo Shan" width="100%">
 	</div>
 </div>
 
@@ -100,7 +100,7 @@
 
 <div class='paper-box-image'>
 	<div>
-		<img src='images/hiking/202110.HEIC' alt="Red Incense Burner Summit" width="100%">
+		<img src='images/hiking/202110.JPG' alt="Red Incense Burner Summit" width="100%">
 	</div>
 </div>
 
